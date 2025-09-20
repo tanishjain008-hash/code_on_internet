@@ -1,1 +1,1 @@
-// It is an impcode
+// It is an imp code
